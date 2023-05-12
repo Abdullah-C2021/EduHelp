@@ -1,0 +1,203 @@
+.welcome-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.welcome-welcome {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(234, 255, 253, 1);
+}
+.welcome-button {
+  gap: 10px;
+  top: 637px;
+  left: 37px;
+  width: 315px;
+  height: 52px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(0, 195, 121, 1);
+}
+.welcome-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.welcome-text2 {
+  top: 415px;
+  left: 88px;
+  color: rgba(0, 0, 0, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: 159.3999981880188%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.welcome-i-phonestatusbarlower {
+  top: 811px;
+  left: 0px;
+  width: 390px;
+  height: 33px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-colors_backgrounds-dark);
+}
+.welcome-bar {
+  top: 21.65625px;
+  left: 125.83999633789062px;
+  width: 139px;
+  height: 5.15625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.welcome-base {
+  top: 0px;
+  left: 0px;
+  width: 139px;
+  height: 5px;
+  position: absolute;
+  border-radius: 10px;
+}
+.welcome-i-phonestatusbarupper {
+  top: 0px;
+  left: 0px;
+  width: 391px;
+  height: 45px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-colors_backgrounds-dark);
+}
+.welcome-notch {
+  gap: 14px;
+  top: 0px;
+  left: 0px;
+  width: 391px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.welcome-status-icons {
+  gap: 4px;
+  top: 16px;
+  left: 308px;
+  width: 69px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.welcome-network-signal-dark {
+  width: 20px;
+  height: 14px;
+}
+.welcome-wi-fi-signal-dark {
+  width: 16px;
+  height: 14px;
+}
+.welcome-battery-dark {
+  width: 25px;
+  height: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.welcome-rectangle23 {
+  top: 4px;
+  left: 24px;
+  width: 1px;
+  height: 4px;
+  position: absolute;
+}
+.welcome-rectangle2-stroke {
+  top: 0px;
+  left: 0px;
+  width: 23px;
+  height: 12px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.welcome-rectangle20 {
+  top: 2px;
+  left: 2px;
+  width: 19px;
+  height: 8px;
+  position: absolute;
+  border-radius: 1px;
+}
+.welcome-indicator {
+  top: 8px;
+  left: 314px;
+  width: 6px;
+  height: 6px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.welcome-time-dark {
+  top: 12px;
+  left: 21px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+}
+.welcome-svg941 {
+  top: 3px;
+  left: 11px;
+  width: 33px;
+  height: 15px;
+  position: absolute;
+}
+.welcome-eduhelplogo1 {
+  top: 110px;
+  left: 92px;
+  width: 205px;
+  height: 196px;
+  position: absolute;
+  border-color: rgba(0, 195, 121, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 7px;
+}
